@@ -19,6 +19,8 @@ namespace XO_Game
         int i;
         bool flag = false;
         bool f = false;
+        bool Of = false;
+        bool Xf = false;
         int numberGame = 0; 
         int OWin = 0; 
         int XWin = 0; 
@@ -61,6 +63,7 @@ namespace XO_Game
             { 
                 XWin = XWin + 1; 
                 flag = true;
+                Xf = true;
                 label3.Text = "X : O\n" + XWin.ToString() + " : " + OWin.ToString(); 
                 MessageBox.Show(" X победили!"); 
             }
@@ -69,15 +72,21 @@ namespace XO_Game
             {
                 OWin = OWin + 1;
                 flag = true;
+                Xf = true;
                 label3.Text = "X : O\n" + XWin.ToString() + " : " + OWin.ToString();
                 MessageBox.Show(" O победили!");
             }
-            if ((arr[1] != "") && (arr[2] != "") && (arr[3] != "") && (arr[4] != "") && (arr[5] != "") && (arr[7] != "") && (arr[8] != "") && (arr[9] != ""))
-            {
-                flag = true;
 
-                MessageBox.Show(" Ничья! :)"); 
-            }
+                if ((arr[1] != "") && (arr[2] != "") && (arr[3] != "") && (arr[4] != "") && (arr[5] != "") && (arr[6] != "") && (arr[7] != "") && (arr[8] != "") && (arr[9] != "") && (Xf == false) && (Of == false))
+                {
+                    flag = true;
+
+                    MessageBox.Show(" Ничья! :)");
+                }
+
+            Of = false;
+            Xf = false;
+
         }
 
         public void moveComp()
