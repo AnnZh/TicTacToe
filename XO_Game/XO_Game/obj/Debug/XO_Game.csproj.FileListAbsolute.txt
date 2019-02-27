@@ -1,0 +1,27 @@
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\bin\Debug\XO_Game.exe.config
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\bin\Debug\XO_Game.exe
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\bin\Debug\XO_Game.pdb
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.csprojResolveAssemblyReference.cache
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.Form1.resources
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.GenerateResource.Cache
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.exe
+C:\Users\Аня\documents\visual studio 2017\Projects\XO_Game\XO_Game\obj\Debug\XO_Game.pdb
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\bin\Debug\XO_Game.exe.config
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\bin\Debug\XO_Game.exe
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\bin\Debug\XO_Game.pdb
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.csprojResolveAssemblyReference.cache
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.Form1.resources
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.GenerateResource.Cache
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.exe
+C:\BSUIR 3_2\Курсы\XO_Game\XO_Game\obj\Debug\XO_Game.pdb
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\bin\Debug\XO_Game.exe.config
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\bin\Debug\XO_Game.exe
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\bin\Debug\XO_Game.pdb
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.csprojResolveAssemblyReference.cache
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.Form1.resources
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.GenerateResource.Cache
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.exe
+C:\BSUIR 3_2\Курсы\XO_Game_II\XO_Game\XO_Game\obj\Debug\XO_Game.pdb
